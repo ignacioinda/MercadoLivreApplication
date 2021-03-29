@@ -13,7 +13,7 @@ ___
 
 1. Clique no botão para fazer o deploy:
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonimy/MercadoLivreApplication)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ignacioinda/MercadoLivreApplication)
 
 2. Vá ao seu projeto no Heroku e configure as variáveis de ambiente como no print abaixo:
 ![](./public/pictures/meliapplication-heroku.png)
