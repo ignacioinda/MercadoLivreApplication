@@ -1,0 +1,38 @@
+{
+   "name": "MercadolibreV1.0",
+   "repository": "https://github.com/ignacioinda/MercadoLivreApplication",
+   "addons": [
+      {
+         "options": {
+            "version": "1.0"
+         },
+         "plan": "heroku"
+      }
+   ],
+   "description": "Mercadolibre manager bulk",
+   "env": {
+      "CLIENT_ID": {
+         "description": "CLIENT_ID",
+         "required": true,
+         "value": ""
+      },
+      "CLIENT_SECRET": {
+         "description": "CLIENT_SECRET",
+         "required": true,
+         "value": ""
+      },
+      "REDIRECT_URI": {
+         "description": "CLIENT_SECRET",
+         "required": true,
+         "value": ""
+      },
+      "REDIRECT_URI": {
+         "description": "SYS_PWD",
+         "required": true,
+         "value": ""
+      }
+   },
+   "keywords": [
+      "Mercadolibre",
+   ]
+}
